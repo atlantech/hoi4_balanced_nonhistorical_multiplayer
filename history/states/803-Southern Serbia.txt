@@ -26,6 +26,6 @@ state={
 		11832 11857 11868 
 	}
 	manpower=210000
-	buildings_max_level_factor=6.000
-	state_category=megapolis
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
 }
