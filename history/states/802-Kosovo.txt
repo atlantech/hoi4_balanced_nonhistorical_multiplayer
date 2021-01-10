@@ -3,6 +3,10 @@ state={
 	id=802
 	name="STATE_802"
 
+	resources={
+		steel=75.000
+	}
+
 	history={
 		victory_points = {
 			6940 3 
@@ -10,7 +14,8 @@ state={
 		owner = YUG
 		buildings = {
 			infrastructure = 2
-
+			industrial_complex = 1
+			arms_factory = 1
 		}
 		add_core_of = YUG
 		add_core_of = KOS
@@ -23,5 +28,5 @@ state={
 	}
 	manpower=616000
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=large_town
 }

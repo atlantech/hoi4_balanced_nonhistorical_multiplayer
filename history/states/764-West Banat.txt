@@ -3,7 +3,11 @@ state={
 	id=764
 	name="STATE_764"
 	manpower = 585579
-	state_category = rural
+	state_category = metropolis
+
+	resources={
+		oil=5
+	}
 
 	history={
 		owner = YUG
@@ -16,6 +20,7 @@ state={
 			infrastructure = 6
 			arms_factory = 5
 			industrial_complex = 3
+			synthetic_refinery = 1
 		}
 		add_core_of = YUG
 		add_core_of = SER
