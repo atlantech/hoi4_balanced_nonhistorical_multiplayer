@@ -2,7 +2,9 @@ state={
 	id=7
 	name="STATE_7"
 	resources={
-		steel=4.000
+		steel=85.000
+		aluminium=32.000
+		chromium=25.000
 	}
 
 	history={
@@ -19,8 +21,8 @@ state={
 		}
 		buildings = {
 			infrastructure = 8
-			arms_factory = 4
-			industrial_complex = 3
+			arms_factory = 5
+			industrial_complex = 5
 			dockyard = 3
 			air_base = 5
 			3314 = {
@@ -41,5 +43,5 @@ state={
 	}
 	manpower=4123000
 	buildings_max_level_factor=1.000
-	state_category=metropolis
+	state_category=megalopolis
 }
