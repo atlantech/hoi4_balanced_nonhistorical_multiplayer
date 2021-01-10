@@ -4,13 +4,13 @@ state={
 	name="STATE_506" # Antofagasta
 	manpower = 283605
 	
-	state_category = rural
+	state_category = metropolis
 
 	history={
 		owner = CHL
 		buildings = {
 			infrastructure = 3
-			industrial_complex = 2
+			industrial_complex = 6
 			air_base = 1
 			12994 = {
 				naval_base = 1

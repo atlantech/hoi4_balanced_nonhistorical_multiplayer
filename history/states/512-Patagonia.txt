@@ -4,7 +4,7 @@ state={
 	name="STATE_512"
 	manpower = 226638
 	
-	state_category = rural
+	state_category = megalopolis
 	
 	resources={
 		oil=5 # was: 6
@@ -14,6 +14,7 @@ state={
 		owner = ARG
 		buildings = {
 			infrastructure = 3
+			industrial_complex = 4
 			10953 = {
 				naval_base = 1
 			}

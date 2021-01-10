@@ -4,11 +4,12 @@ state={
 	name="STATE_503"
 	manpower = 1922700
 	
-	state_category = rural
+	state_category = city
 
 	history={
 		owner = BRA
 		buildings = {
+			industrial_complex = 1
 			infrastructure = 5
 			air_base = 1
 		}

@@ -3,13 +3,13 @@ state={
 	id=504
 	name="STATE_504"
 	
-	state_category = rural
+	state_category = town
 
 	history={
 		owner = BRA
 		buildings = {
 			infrastructure = 2
-
+			industrial_complex = 1
 		}
 		add_core_of = BRA
 

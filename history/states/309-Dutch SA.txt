@@ -8,7 +8,7 @@ state={
 		aluminium=60 # was: 104
 	}	
 	
-	state_category = rural
+	state_category = megalopolis
 
 	history={
 		add_core_of = SUR
@@ -18,7 +18,9 @@ state={
 		}
 		buildings = {
 			infrastructure = 3
-			industrial_complex = 1
+			industrial_complex = 5
+			arms_factory = 5
+			dockyard=4
 			12828 = {
 				naval_base = 1
 			}

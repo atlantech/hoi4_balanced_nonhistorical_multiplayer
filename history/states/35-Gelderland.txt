@@ -4,7 +4,7 @@ state={
 
 	resources={
 		steel=25.000
-		aluminium=23.000
+		aluminium=13.000
 		chromium=15.000
 	}
 
