@@ -9,8 +9,16 @@ units= {
 		task_force = {				
 			name = "Kraljevska Mornarica"			
 			location = 3924 # Split
+			ship = { name = "KB Durmitor" pride_of_the_fleet = yes definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_1 = { amount = 1 owner = YUG version_name = "Tegetthoff Class"  } } } 
+			ship = { name = "KB Kosmaj" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_1 = { amount = 1 owner = YUG version_name = "Tegetthoff Class"  } } } 
 			ship = { name = "KB Dalmacija" definition = light_cruiser equipment = { ship_hull_cruiser_coastal_defense_ship = { amount = 1 owner = YUG version_name = "Dalmacija Class" } } }
+			ship = { name = "KB Beograd" definition = light_cruiser equipment = { ship_hull_cruiser_coastal_defense_ship = { amount = 1 owner = YUG version_name = "Dalmacija Class" } } }
+			ship = { name = "KB Ljubljana" definition = light_cruiser equipment = { ship_hull_cruiser_coastal_defense_ship = { amount = 1 owner = YUG version_name = "Dalmacija Class" } } }
+			ship = { name = "KB Zagreb" definition = light_cruiser equipment = { ship_hull_cruiser_coastal_defense_ship = { amount = 1 owner = YUG version_name = "Dalmacija Class" } } }
 			ship = { name = "KB Dubrovnik" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = YUG version_name = "Dubrovnik Class" } } }
+			ship = { name = "KB Beograd" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = YUG version_name = "Beograd Class" } } }
+			ship = { name = "KB Zagrb" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = YUG version_name = "Beograd Class" } } }
+			ship = { name = "KB Ljubljana" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = YUG version_name = "Beograd Class" } } }
 			# Podmornica Divizija
 			ship = { name = "KB Hrabri" definition = submarine equipment = { ship_hull_submarine_2 = { amount = 1 owner = YUG version_name = "Hrabri Class" } } }				
 			ship = { name = "KB Nebojsa" definition = submarine equipment = { ship_hull_submarine_2 = { amount = 1 owner = YUG version_name = "Hrabri Class" } } }				
