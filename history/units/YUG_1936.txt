@@ -74,7 +74,7 @@ units = {
 		}
 		location = 11586
 		division_template = "Pesadijska Divizija"
-		start_experience_factor = 0.3
+		start_experience_factor = 1
 	}
 	division = {
 		#name = "1. 'Cerska' Pesadijska Div."  			# Peadijska if we get font support
@@ -85,14 +85,14 @@ units = {
 		location = 11586
 		division_template = "Pesadijska Divizija"
 		start_experience_factor = 0.1
-		start_equipment_factor = 0.3
+		start_equipment_factor = 1
 
 	}
 	division = {
 		name = "1. Bataljon Bornih Kola"
 		location = 11586
 		division_template = "Tenkovski Bataljon"
-		start_experience_factor = 0.3
+		start_experience_factor = 1
 		start_equipment_factor = 1
 		force_equipment_variants = { gw_tank_equipment = { owner = "YUG" creator = "FRA" } }
 
@@ -108,7 +108,7 @@ units = {
 		location = 3924
 		division_template = "Pesadijska Divizija"
 		start_experience_factor = 0.1
-		start_equipment_factor = 0.3
+		start_equipment_factor = 1
 
 	}
 
@@ -122,7 +122,7 @@ units = {
 		location = 907
 		division_template = "Pesadijska Divizija"
 		start_experience_factor = 0.1
-		start_equipment_factor = 0.3
+		start_equipment_factor = 1
 
 	}
 	division = {
@@ -134,7 +134,7 @@ units = {
 		location = 11868
 		division_template = "Pesadijska Divizija"
 		start_experience_factor = 0.1
-		start_equipment_factor = 0.3
+		start_equipment_factor = 1
 
 	}
 	division = {
@@ -146,7 +146,7 @@ units = {
 		location = 11887
 		division_template = "Konjička Divizija"
 		start_experience_factor = 0.1
-		start_equipment_factor = 0.3
+		start_equipment_factor = 1
 
 	}
 
@@ -160,7 +160,7 @@ units = {
 		location = 3614
 		division_template = "Pesadijska Divizija"
 		start_experience_factor = 0.1
-		start_equipment_factor = 0.3
+		start_equipment_factor = 1
 
 	}
 
@@ -175,7 +175,7 @@ units = {
 		location = 11581
 		division_template = "Pesadijska Divizija"
 		start_experience_factor = 0.1
-		start_equipment_factor = 0.3
+		start_equipment_factor = 1
 
 	}
 
@@ -188,7 +188,7 @@ units = {
 		}
 		location = 3631
 		division_template = "Gorska Pesadija"
-		start_experience_factor = 0.3
+		start_experience_factor = 1
 		start_equipment_factor = 0.7
 
 	}
@@ -200,7 +200,7 @@ units = {
 		}
 		location = 9596
 		division_template = "Gorska Pesadija"
-		start_experience_factor = 0.3
+		start_experience_factor = 1
 		start_equipment_factor = 0.7
 
 	}
@@ -213,7 +213,7 @@ units = {
 		location = 9627
 		division_template = "Konjička Divizija"
 		start_experience_factor = 0.1
-		start_equipment_factor = 0.3
+		start_equipment_factor = 1
 
 	}
 
@@ -228,7 +228,7 @@ units = {
 		location = 6643
 		division_template = "Pesadijska Divizija"
 		start_experience_factor = 0.1
-		start_equipment_factor = 0.3
+		start_equipment_factor = 1
 
 	}
 	division = {
@@ -240,7 +240,7 @@ units = {
 		location = 614
 		division_template = "Konjička Divizija"
 		start_experience_factor = 0.1
-		start_equipment_factor = 0.3
+		start_equipment_factor = 1
 
 	}
 
@@ -254,7 +254,7 @@ units = {
 		location = 3627
 		division_template = "Pesadijska Divizija"
 		start_experience_factor = 0.1
-		start_equipment_factor = 0.3
+		start_equipment_factor = 1
 
 	}
 	division = {
@@ -266,7 +266,7 @@ units = {
 		location = 3623
 		division_template = "Pesadijska Divizija"
 		start_experience_factor = 0.1
-		start_equipment_factor = 0.3
+		start_equipment_factor = 1
 
 	}
 
@@ -281,7 +281,7 @@ units = {
 		location = 833
 		division_template = "Pesadijska Divizija"
 		start_experience_factor = 0.1
-		start_equipment_factor = 0.3
+		start_equipment_factor = 1
 
 	}
 	division = {
@@ -293,7 +293,7 @@ units = {
 		location = 6913
 		division_template = "Pesadijska Divizija"
 		start_experience_factor = 0.1
-		start_equipment_factor = 0.3
+		start_equipment_factor = 1
 
 	}
 	division = {
@@ -305,7 +305,7 @@ units = {
 		location = 9809
 		division_template = "Pesadijska Divizija"
 		start_experience_factor = 0.1
-		start_equipment_factor = 0.3
+		start_equipment_factor = 1
 
 	}
 
@@ -319,7 +319,7 @@ units = {
 		location = 3833
 		division_template = "Pesadijska Divizija"
 		start_experience_factor = 0.1
-		start_equipment_factor = 0.3
+		start_equipment_factor = 1
 
 	}
 	division = {
@@ -331,7 +331,7 @@ units = {
 		location = 11856
 		division_template = "Pesadijska Divizija"
 		start_experience_factor = 0.1
-		start_equipment_factor = 0.3
+		start_equipment_factor = 1
 
 	}
 	division = {
@@ -343,7 +343,7 @@ units = {
 		location = 3882
 		division_template = "Pesadijska Divizija"
 		start_experience_factor = 0.1
-		start_equipment_factor = 0.3
+		start_equipment_factor = 1
 
 	}
 }  # Neboja if we get font support
@@ -355,14 +355,14 @@ air_wings = {
 		# 1. Vazduhoplovna Brigada -- Dewotine D.1/9/27 fighters
 		fighter_equipment_0 = {
 			owner = "YUG" 
-			amount = 48
+			amount = 148
 		}
 	}
 	104 = {
 		# 2. Vazduhoplovna Brigada  -- Hawker Fury and Ikarus IK-2 fighters
 		fighter_equipment_0 = {
 			owner = "YUG" 
-			amount = 48
+			amount = 148
 		}
 	}
 }
